@@ -1,0 +1,1 @@
+Every class has an object. A method and a constructor run inside it, plus inheritance helps code.

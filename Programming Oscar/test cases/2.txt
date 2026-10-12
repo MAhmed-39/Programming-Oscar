@@ -1,0 +1,1 @@
+Java is built around the class and the object. A constructor creates an object, and each method works on its data. Inheritance and polymorphism allow reuse, while encapsulation and abstraction keep code tidy.

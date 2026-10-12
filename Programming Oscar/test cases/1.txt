@@ -1,0 +1,1 @@
+In Java a class is a blueprint and an object is an instance of it. Inheritance lets one class reuse another, polymorphism lets a method behave differently, and encapsulation hides data. Abstraction, a constructor, an interface and a package complete the picture.

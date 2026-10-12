@@ -1,0 +1,1 @@
+Class and object, constructor and method, interface and package, inheritance and polymorphism, abstraction and encapsulation.

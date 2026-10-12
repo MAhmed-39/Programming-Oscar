@@ -1,0 +1,1 @@
+When we write a program in Java we usually start with a class, and from that class we can build an object. Every object gets set up by a constructor, and any method inside the class can then use it. Inheritance helps us share code between classes.

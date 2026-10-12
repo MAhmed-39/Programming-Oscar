@@ -1,0 +1,1 @@
+Programming is the process of giving a computer step by step instructions so that it can solve a problem for us.

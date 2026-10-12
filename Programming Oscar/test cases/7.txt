@@ -1,0 +1,1 @@
+An interface lists methods. A package groups classes, and a class can use an interface. The package, the interface and the class all help, and so do object, constructor and polymorphism.

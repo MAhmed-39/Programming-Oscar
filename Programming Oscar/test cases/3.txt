@@ -1,0 +1,1 @@
+A class makes an object. Its method and constructor do the work, and inheritance shares code.
